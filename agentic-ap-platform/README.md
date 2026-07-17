@@ -129,6 +129,4 @@ Run the app locally and capture:
 2. Live invoice list status changes  
 3. Upload page + notification drawer  
 
-## License
 
-MIT — assessment / portfolio use.
