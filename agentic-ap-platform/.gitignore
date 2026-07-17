@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+.DS_Store
+*.log
+coverage/
+.vite/
+backend/data/*.json
+!backend/data/.gitkeep
+backend/src/data/
+frontend/node_modules/
+backend/node_modules/
