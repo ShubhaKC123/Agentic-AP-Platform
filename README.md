@@ -1,4 +1,4 @@
-<img width="1728" height="1117" alt="Screenshot 2026-07-17 at 4 32 09 AM" src="https://github.com/user-attachments/assets/da45be07-e048-4562-95a5-e8c5265d0f64" />Agentic AP Platform
+/>Agentic AP Platform
 AI-powered Invoice Processing & Vendor Management Portal — a production-style SaaS frontend with a mock Express/Socket.io backend.
 
 Architecture
@@ -89,7 +89,7 @@ Run the app locally and capture:
 Invoice dashboard with charts
 Live invoice list status changes
 Upload page + notification drawer
-
+<img width="1728" height="1117" alt="Screenshot 2026-07-17 at 4 32 09 AM" src="https://github.com/user-attachments/assets/da45be07-e048-4562-95a5-e8c5265d0f64" />
 <img width="1728" height="1117" alt="Screenshot 2026-07-17 at 4 32 09 AM" src="https://github.com/user-attachments/assets/04e0776f-d5cf-412e-ac56-dabb00bdaf52" />
 
 <img width="1728" height="1117" alt="Screenshot 2026-07-17 at 4 32 32 AM" src="https://github.com/user-attachments/assets/a5db7348-5899-44cc-b443-b987f295f364" />
